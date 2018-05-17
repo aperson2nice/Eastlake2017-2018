@@ -30,5 +30,5 @@ def start():
         fancify(words)
 
 
-#starts the program
-start()
+if __name__ == __main__:
+    start()
